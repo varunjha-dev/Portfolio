@@ -47,8 +47,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/modern-portfolio-website.git
-cd modern-portfolio-website
+git clone https://github.com/varunjha-dev/Portfolio.git
+cd Portfolio
 ```
 
 ### 2. Install Dependencies
