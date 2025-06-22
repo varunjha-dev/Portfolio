@@ -52,7 +52,7 @@ const Projects: React.FC = () => {
       image: 'https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=800',
       technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Firebase', 'Google Gemini API'],
       liveUrl: 'https://dsa-guru.web.app/',
-      githubUrl: 'https://github.com',
+      githubUrl: 'https://github.com/varunjha-dev/DSA-Guru',
       featured: false
     },
     {
@@ -63,7 +63,7 @@ const Projects: React.FC = () => {
       image: 'https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=800',
       technologies: ['React', 'TypeScript', 'Firebase', 'Tailwind CSS', 'Google Gemini API'],
       liveUrl: 'https://ai-gf-19031.web.app/',
-      githubUrl: 'https://github.com',
+      githubUrl: 'https://github.com/varunjha-dev/ai-friend-chatbot',
       featured: false
     }
   ];
